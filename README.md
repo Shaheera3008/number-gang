@@ -1,2 +1,2 @@
-# number-gang
-The Number Gang
+# the-numbers-gang
+ The Numbers Gang
